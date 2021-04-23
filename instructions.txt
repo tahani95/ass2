@@ -1,0 +1,5 @@
+1. there is no screenshot in this assignment.
+2. no need to write HTML. only CSS.
+3. in this assignment the CSS needs to be in a separate file. this file is already provided with instructions on what to do.
+4. the first thing you need to do is write the correct tag in the HTML file (inside the <head> tag) to connect the CSS file to the HTML file.
+5. after that just follow the instructions in the CSS file.
